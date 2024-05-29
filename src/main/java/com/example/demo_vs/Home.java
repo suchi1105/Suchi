@@ -48,6 +48,7 @@ public class Home {
         numlist.add(Arrays.asList(1,2));
         numlist.add(Arrays.asList(3,4));
         iterateElasticWrites(numlist).subscribe(a -> System.out.println("size:::::::" +a));
+	//Helllooooooooooooooo
        /*iterateElasticWrites().subscribe(a -> {
         
        
